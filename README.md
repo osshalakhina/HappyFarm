@@ -1,6 +1,6 @@
 # HappyFarm
 
-Caricatures and illustrations made in Adobe Photoshop for Happy Farm Business Accelerator.
+Caricatures and illustrations created in Adobe Photoshop and Adobe Illustartor for Happy Farm Business Accelerator.
 
 # Preview
 
