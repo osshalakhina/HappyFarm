@@ -4,4 +4,4 @@ Caricatures and illustrations made in Adobe Photoshop for Happy Farm Business Ac
 
 # Preview
 
-![](./images/preview.gif)
+![](./images/preview.png)
